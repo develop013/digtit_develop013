@@ -1,3 +1,4 @@
+# Credit : bikz05
 # Digit Recognition
 Handwritten Digit Recognition using OpenCV, sklearn and Python | [Video](https://www.youtube.com/watch?v=ur6JY2Hl-MM)
 
